@@ -1,0 +1,9 @@
+{
+  "name": "genpark-json-rpc-batch-pipelining-dispatcher-skill",
+  "version": "1.0.1",
+  "description": "High-throughput JSON-RPC 2.0 batch pipelining and inter-tool parameter dependency resolver for Model Context Protocol",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "homepage": "https://www.genpark.ai",
+  "entrypoint": "mcp_server.py"
+}
